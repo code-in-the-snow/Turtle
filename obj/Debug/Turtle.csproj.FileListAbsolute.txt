@@ -1,0 +1,6 @@
+c:\users\owner\documents\GitHub\Turtle\bin\Debug\Turtle.exe.config
+c:\Users\Owner\Documents\GitHub\Turtle\obj\Debug\Turtle.csprojResolveAssemblyReference.cache
+c:\Users\Owner\Documents\GitHub\Turtle\bin\Debug\Turtle.exe
+c:\Users\Owner\Documents\GitHub\Turtle\bin\Debug\Turtle.pdb
+c:\Users\Owner\Documents\GitHub\Turtle\obj\Debug\Turtle.exe
+c:\Users\Owner\Documents\GitHub\Turtle\obj\Debug\Turtle.pdb
